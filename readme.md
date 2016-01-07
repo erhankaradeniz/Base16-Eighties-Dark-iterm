@@ -15,5 +15,5 @@ They work well together! You will need to install the patched powerline font as 
 2. Open up your ZSH preferences at `~/.zshrc` and change the theme variable to `ZSH_THEME="base16-eighties-dark"`.
 3. In iTerm2 access the *Preferences* pane on the *Profiles* tab.
 4. Under the *Colors* tab import the `base16-eighties-dark.itermcolors` file via the *Load Presets* drop-down.
-5. Under the *Text* tab change the font for each type (*Regular* and *Non-ASCII*) to '**Inconsolata for Powerline**'. (Refer to the [powerline-fonts repo](https://github.com/powerline/fonts) for help on font installation.)
+5. Under the *Text* tab change the font for each type (*Regular* and *Non-ASCII*) to '**Sauce Code for Powerline**'. (Refer to the [powerline-fonts repo](https://github.com/powerline/fonts) for help on font installation.)
 6. Refresh ZSH by typing `source ~/.zshrc` on the command line.
