@@ -1,6 +1,6 @@
 # base16-eighties-dark for iTerm2 and ZSH
 
-[Sublime Text Theme](https://github.com/wesbos/cobalt2) Eighties Dark theme in your terminal.
+[Sublime Text Theme](https://github.com/erhankaradeniz/Base16-Eighties-Dark-iterm) Eighties Dark theme in your terminal.
 
 This theme is an edit from the [Cobalt2 theme by Wes Bos](https://github.com/wesbos/Cobalt2-iterm). I've only changed the colors of the layout to match my preferences.
 
